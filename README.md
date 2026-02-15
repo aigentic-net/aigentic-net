@@ -1,5 +1,5 @@
-**4166y**
-> *37h1c4l - wh173h47k3r*
+**4166y** i am the *37h1c4l - wh173h47k3r*
+___
 > *"A team of androids without the mechanical arm."*
 
 I build **virtual white-collar teams** -- autonomous inference systems that do the work of analysts, researchers, and coordinators, then hand humans the results with receipts.
