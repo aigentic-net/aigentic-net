@@ -45,4 +45,4 @@ The bottleneck in most organizations isn't compute -- it's the gap between what 
 
 ---
 
-<sub>Building in public from 2026. London, UK.</sub>
+<sub>Building in public from 2026. Unknown, SWE.</sub>
