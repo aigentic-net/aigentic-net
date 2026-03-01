@@ -15,6 +15,7 @@ I build **virtual white-collar teams** -- autonomous inference systems that do t
 | Layer | What it does |
 |---|---|
 | **Inference Circuits** | Modular agentic pipelines -- each "team member" is a purpose-built reasoning chain with tool access, memory, and accountability |
+| **Lorentzian Memory** | Causal memory architecture grounded in relativistic geometry -- agents retrieve only what is semantically reachable, not everything that is similar |
 | **Looped Reasoning** | Iterative transformer architectures that trade parameters for compute loops, getting more out of smaller models |
 | **Human-in-the-Loop Oversight** | Every output is auditable. AI proposes, domain experts dispose. No black-box decisions reaching production |
 
@@ -28,6 +29,7 @@ Most AI companies sell acceleration. I sell **replacement of entire workflows** 
 
 ### Technical focus
 
+- **Lorentzian memory lightcones** -- replacing flat vector similarity with causal structure: memories live in a semantic spacetime where retrieval respects precedence, not just proximity. Polymathic weighting scores cross-domain relevance so agents surface unexpected connections instead of echo chambers
 - **Agentic orchestration** -- multi-agent systems with tool use, persistent memory, and self-correction loops
 - **Looped language models** -- challenging scaling laws by injecting iterative reasoning into inference rather than adding parameters
 - **Knowledge manipulation** -- moving beyond retrieval (memorization) toward genuine reasoning over domain knowledge
