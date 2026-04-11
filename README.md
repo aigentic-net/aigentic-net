@@ -1,4 +1,4 @@
-**4166y** i am the *37h1c4l - wh173h47k3r*
+**4166y**
 ___
 > *"A team of androids without the mechanical arm."*
 
