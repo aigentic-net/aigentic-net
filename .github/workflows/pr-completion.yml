@@ -1,0 +1,21 @@
+name: PR Completion
+
+on:
+  pull_request:
+    types: [opened, edited, synchronize, reopened, ready_for_review]
+
+permissions:
+  contents: read
+
+jobs:
+  validate-handoff:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Validate Luna / Codex handoff
+        env:
+          PR_BODY: ${{ github.event.pull_request.body }}
+        run: |
+          if ! printf '%s\n' "$PR_BODY" | grep -Fq '## Luna / Codex Handoff'; then
+            echo 'Missing required PR section: ## Luna / Codex Handoff'
+            exit 1
+          fi
